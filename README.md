@@ -43,4 +43,26 @@ Sample datasets are included as SQL INSERT statements.
 
 ## Approach
 - Use **JOINs** to combine tables for analysis.  
-- Apply **window functions** (`RANK(
+- Apply **window functions** (`RANK()`, `ROW_NUMBER()`) for ranking results.  
+- Use **CTEs** to organize intermediate calculations.  
+- Implement advanced filtering and aggregation to get insights like top customers, popular movies, and revenue trends.
+
+
+
+## Skills
+This challenge demonstrates:
+
+- Advanced SQL query writing  
+- Use of **analytic/window functions**  
+- **CTEs** and subqueries  
+- Aggregation and ranking logic  
+- Data analysis in a real-world scenario  
+
+
+
+## Technical Tools
+- **Oracle SQL** (any recent version)  
+- SQL client tools such as **SQL Developer** or **TOAD**  
+- GitHub for project organization and version control  
+- Optional: Online SQL platforms that support Oracle SQL
+
