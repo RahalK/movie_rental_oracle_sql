@@ -14,7 +14,7 @@
 
 
 ## Overview
-This project contains an **advanced Oracle SQL challenge** based on a movie rental system. The goal is to analyze rental trends, customer behavior, and top-performing movies using complex SQL queries including window functions, analytic functions, and CTEs.
+This project contains an **Oracle SQL challenge** based on a movie rental system. The goal is to analyze rental trends, customer behavior, and top-performing movies using complex SQL queries including window functions, analytic functions, and CTEs.
 
 
 
@@ -61,8 +61,6 @@ This challenge demonstrates:
 
 
 ## Technical Tools
-- **Oracle SQL** (any recent version)  
-- SQL client tools such as **SQL Developer** or **TOAD**  
+- **Oracle SQL** (any recent version)   
 - GitHub for project organization and version control  
-- Optional: Online SQL platforms that support Oracle SQL
 
